@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Aisha Dwi Anindita Radianto**.<br>
+
+Saya seorang **Informatics Engineer Student** di Universitas Islam Negeri Maulana Malik Ibrahim Malang.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aisha-dwi-anindita-radianto-26454324a/)ku ya.
